@@ -1,0 +1,313 @@
+------------------- Consulta 1 -------------------
+67|al-Ayn|ARE|Abu Dhabi|225970
+149|al-Manama|BHR|al-Manama|148000
+614|al-Mahallat al-Kubra|EGY|al-Gharbiya|395402
+616|al-Mansura|EGY|al-Daqahliya|369621
+621|al-Faiyum|EGY|al-Faiyum|260964
+626|al-Minya|EGY|al-Minya|201360
+638|al-Arish|EGY|Shamal Sina|100447
+643|al-Hawamidiya|EGY|Giza|91700
+1370|al-Sulaymaniya|IRQ|al-Sulaymaniya|364096
+1371|al-Najaf|IRQ|al-Najaf|309010
+1373|al-Hilla|IRQ|Babil|268834
+1374|al-Nasiriya|IRQ|DhiQar|265937
+1375|al-Amara|IRQ|Maysan|208797
+1376|al-Diwaniya|IRQ|al-Qadisiya|196519
+1377|al-Ramadi|IRQ|al-Anbar|192556
+1378|al-Kut|IRQ|Wasit|183183
+1784|al-Mukalla|YEM|Hadramawt|122400
+1787|al-Zarqa|JOR|al-Zarqa|389815
+1789|al-Rusayfa|JOR|al-Zarqa|137247
+2427|al-Salimiya|KWT|Hawalli|130215
+2444|al-Zawiya|LBY|al-Zawiya|89338
+2817|al-Sib|OMN|Masqat|155000
+3177|al-Dammam|SAU|al-Sharqiya|482300
+3178|al-Taif|SAU|Mekka|416100
+3181|al-Hufuf|SAU|al-Sharqiya|225800
+3182|al-Mubarraz|SAU|al-Sharqiya|219100
+3185|al-Kharj|SAU|Riad|152100
+3186|al-Khubar|SAU|al-Sharqiya|141700
+3189|al-Tuqba|SAU|al-Sharqiya|125700
+3193|al-Qatif|SAU|al-Sharqiya|98900
+3194|al-Hawiya|SAU|Mekka|93900
+3232|al-Qadarif|SDN|al-Qadarif|191164
+3234|al-Fashir|SDN|Darfur al-Shamaliya|141884
+3255|al-Qamishliya|SYR|al-Hasaka|144286
+3259|al-Raqqa|SYR|al-Raqqa|108020
+------------------- Consulta 2 -------------------
+ARE
+BHR
+EGY
+IRQ
+YEM
+JOR
+KWT
+LBY
+OMN
+SAU
+SDN
+SYR
+------------------- Consulta 3 -------------------
+------------------- Consulta 4 -------------------
+Sydney
+Melbourne
+Brisbane
+Perth
+Adelaide
+Canberra
+Gold Coast
+Newcastle
+Central Coast
+Wollongong
+Hobart
+Geelong
+Townsville
+Cairns
+Santo Domingo de Guzmán
+Santiago de los Caballeros
+La Romana
+San Pedro de Macorís
+San Francisco de Macorís
+San Felipe de Puerto Plata
+San Salvador
+Santa Ana
+Mejicanos
+Soyapango
+San Miguel
+Nueva San Salvador
+Apopa
+Serekunda
+Banjul
+------------------- Consulta 5 -------------------
+ABW|Aruba|North America|Caribbean|193.00||103000|78.4|828.00|793.00|Aruba|Nonmetropolitan Territory of The Netherlands|Beatrix|129|AW
+AIA|Anguilla|North America|Caribbean|96.00||8000|76.1|63.20||Anguilla|Dependent Territory of the UK|Elisabeth II|62|AI
+ALB|Albania|Europe|Southern Europe|28748.00|1912|3401200|71.6|3205.00|2500.00|Shqipëria|Republic|Rexhep Mejdani|34|AL
+ANT|Netherlands Antilles|North America|Caribbean|800.00||217000|74.7|1941.00||Nederlandse Antillen|Nonmetropolitan Territory of The Netherlands|Beatrix|33|AN
+ARE|United Arab Emirates|Asia|Middle East|83600.00|1971|2441000|74.1|37966.00|36846.00|Al-Imarat al-´Arabiya al-Muttahida|Emirate Federation|Zayid bin Sultan al-Nahayan|65|AE
+ARG|Argentina|South America|South America|2780400.00|1816|37032000|75.1|340238.00|323310.00|Argentina|Federal Republic|Fernando de la Rúa|69|AR
+ASM|American Samoa|Oceania|Polynesia|199.00||68000|75.1|334.00||Amerika Samoa|US Territory|George W. Bush|54|AS
+ATG|Antigua and Barbuda|North America|Caribbean|442.00|1981|68000|70.5|612.00|584.00|Antigua and Barbuda|Constitutional Monarchy|Elisabeth II|63|AG
+AUS|Australia|Oceania|Australia and New Zealand|7741220.00|1901|18886000|79.8|351182.00|392911.00|Australia|Constitutional Monarchy, Federation|Elisabeth II|135|AU
+AUT|Austria|Europe|Western Europe|83859.00|1918|8091800|77.7|211860.00|206025.00|Österreich|Federal Republic|Thomas Klestil|1523|AT
+BEL|Belgium|Europe|Western Europe|30518.00|1830|10239000|77.8|249704.00|243948.00|België/Belgique|Constitutional Monarchy, Federation|Albert II|179|BE
+BGR|Bulgaria|Europe|Eastern Europe|110994.00|1908|8190900|70.9|12178.00|10169.00|Balgarija|Republic|Petar Stojanov|539|BG
+BHR|Bahrain|Asia|Middle East|694.00|1971|617000|73.0|6366.00|6097.00|Al-Bahrayn|Monarchy (Emirate)|Hamad ibn Isa al-Khalifa|149|BH
+BHS|Bahamas|North America|Caribbean|13878.00|1973|307000|71.1|3527.00|3347.00|The Bahamas|Constitutional Monarchy|Elisabeth II|148|BS
+BIH|Bosnia and Herzegovina|Europe|Southern Europe|51197.00|1992|3972000|71.5|2841.00||Bosna i Hercegovina|Federal Republic|Ante Jelavic|201|BA
+BLZ|Belize|North America|Central America|22696.00|1981|241000|70.9|630.00|616.00|Belize|Constitutional Monarchy|Elisabeth II|185|BZ
+BMU|Bermuda|North America|North America|53.00||65000|76.9|2328.00|2190.00|Bermuda|Dependent Territory of the UK|Elisabeth II|191|BM
+BRB|Barbados|North America|Caribbean|430.00|1966|270000|73.0|2223.00|2186.00|Barbados|Constitutional Monarchy|Elisabeth II|174|BB
+BRN|Brunei|Asia|Southeast Asia|5765.00|1984|328000|73.6|11705.00|12460.00|Brunei Darussalam|Monarchy (Sultanate)|Haji Hassan al-Bolkiah|538|BN
+CAN|Canada|North America|North America|9970610.00|1867|31147000|79.4|598862.00|625626.00|Canada|Constitutional Monarchy, Federation|Elisabeth II|1822|CA
+CHE|Switzerland|Europe|Western Europe|41284.00|1499|7160400|79.6|264478.00|256092.00|Schweiz/Suisse/Svizzera/Svizra|Federation|Adolf Ogi|3248|CH
+CHL|Chile|South America|South America|756626.00|1810|15211000|75.7|72949.00|75780.00|Chile|Republic|Ricardo Lagos Escobar|554|CL
+CHN|China|Asia|Eastern Asia|9572900.00|-1523|1277558000|71.4|982268.00|917719.00|Zhongquo|People's Republic|Jiang Zemin|1891|CN
+COK|Cook Islands|Oceania|Polynesia|236.00||20000|71.1|100.00||The Cook Islands|Nonmetropolitan Territory of New Zealand|Elisabeth II|583|CK
+COL|Colombia|South America|South America|1138914.00|1810|42321000|70.3|102896.00|105116.00|Colombia|Republic|Andrés Pastrana Arango|2257|CO
+CRI|Costa Rica|North America|Central America|51100.00|1821|4023000|75.8|10226.00|9757.00|Costa Rica|Republic|Miguel Ángel Rodríguez Echeverría|584|CR
+CUB|Cuba|North America|Caribbean|110861.00|1902|11201000|76.2|17843.00|18862.00|Cuba|Socialistic Republic|Fidel Castro Ruz|2413|CU
+CYM|Cayman Islands|North America|Caribbean|264.00||38000|78.9|1263.00|1186.00|Cayman Islands|Dependent Territory of the UK|Elisabeth II|553|KY
+CYP|Cyprus|Asia|Middle East|9251.00|1960|754700|76.7|9333.00|8246.00|Kýpros/Kibris|Republic|Glafkos Klerides|2430|CY
+CZE|Czech Republic|Europe|Eastern Europe|78866.00|1993|10278100|74.5|55017.00|52037.00|¸esko|Republic|Václav Havel|3339|CZ
+DEU|Germany|Europe|Western Europe|357022.00|1955|82164700|77.4|2133367.00|2102826.00|Deutschland|Federal Republic|Johannes Rau|3068|DE
+DMA|Dominica|North America|Caribbean|751.00|1978|71000|73.4|256.00|243.00|Dominica|Republic|Vernon Shaw|586|DM
+DNK|Denmark|Europe|Nordic Countries|43094.00|800|5330000|76.5|174099.00|169264.00|Danmark|Constitutional Monarchy|Margrethe II|3315|DK
+DOM|Dominican Republic|North America|Caribbean|48511.00|1844|8495000|73.2|15846.00|15076.00|República Dominicana|Republic|Hipólito Mejía Domínguez|587|DO
+ECU|Ecuador|South America|South America|283561.00|1822|12646000|71.1|19770.00|19769.00|Ecuador|Republic|Gustavo Noboa Bejarano|594|EC
+ESP|Spain|Europe|Southern Europe|505992.00|1492|39441700|78.8|553233.00|532031.00|España|Constitutional Monarchy|Juan Carlos I|653|ES
+FIN|Finland|Europe|Nordic Countries|338145.00|1917|5171300|77.4|121914.00|119833.00|Suomi|Republic|Tarja Halonen|3236|FI
+FRA|France|Europe|Western Europe|551500.00|843|59225700|78.8|1424285.00|1392448.00|France|Republic|Jacques Chirac|2974|FR
+FRO|Faroe Islands|Europe|Nordic Countries|1399.00||43000|78.4|0.00||Føroyar|Part of Denmark|Margrethe II|901|FO
+GBR|United Kingdom|Europe|British Islands|242900.00|1066|59623400|77.7|1378330.00|1296830.00|United Kingdom|Constitutional Monarchy|Elisabeth II|456|GB
+GIB|Gibraltar|Europe|Southern Europe|6.00||25000|79.0|258.00||Gibraltar|Dependent Territory of the UK|Elisabeth II|915|GI
+GLP|Guadeloupe|North America|Caribbean|1705.00||456000|77.0|3501.00||Guadeloupe|Overseas Department of France|Jacques Chirac|919|GP
+GRC|Greece|Europe|Southern Europe|131626.00|1830|10545700|78.4|120724.00|119946.00|Elláda|Republic|Kostis Stefanopoulos|2401|GR
+GUF|French Guiana|South America|South America|90000.00||181000|76.1|681.00||Guyane française|Overseas Department of France|Jacques Chirac|3014|GF
+GUM|Guam|Oceania|Micronesia|549.00||168000|77.8|1197.00|1136.00|Guam|US Territory|George W. Bush|921|GU
+HKG|Hong Kong|Asia|Eastern Asia|1075.00||6782000|79.5|166448.00|173610.00|Xianggang/Hong Kong|Special Administrative Region of China|Jiang Zemin|937|HK
+HRV|Croatia|Europe|Southern Europe|56538.00|1991|4473000|73.7|20208.00|19300.00|Hrvatska|Republic|Štipe Mesic|2409|HR
+HUN|Hungary|Europe|Eastern Europe|93030.00|1918|10043200|71.4|48267.00|45914.00|Magyarország|Republic|Ferenc Mádl|3483|HU
+IRL|Ireland|Europe|British Islands|70273.00|1921|3775100|76.8|75921.00|73132.00|Ireland/Éire|Republic|Mary McAleese|1447|IE
+ISL|Iceland|Europe|Nordic Countries|103000.00|1944|279000|79.4|8255.00|7474.00|Ísland|Republic|Ólafur Ragnar Grímsson|1449|IS
+ISR|Israel|Asia|Middle East|21056.00|1948|6217000|78.6|97477.00|98577.00|Yisra’el/Isra’il|Republic|Moshe Katzav|1450|IL
+ITA|Italy|Europe|Southern Europe|301316.00|1861|57680000|79.0|1161755.00|1145372.00|Italia|Republic|Carlo Azeglio Ciampi|1464|IT
+JAM|Jamaica|North America|Caribbean|10990.00|1962|2583000|75.2|6871.00|6722.00|Jamaica|Constitutional Monarchy|Elisabeth II|1530|JM
+JOR|Jordan|Asia|Middle East|88946.00|1946|5083000|77.4|7526.00|7051.00|Al-Urdunn|Constitutional Monarchy|Abdullah II|1786|JO
+KNA|Saint Kitts and Nevis|North America|Caribbean|261.00|1983|38000|70.7|299.00||Saint Kitts and Nevis|Constitutional Monarchy|Elisabeth II|3064|KN
+KOR|South Korea|Asia|Eastern Asia|99434.00|1948|46844000|74.4|320749.00|442544.00|Taehan Min’guk (Namhan)|Republic|Kim Dae-jung|2331|KR
+KWT|Kuwait|Asia|Middle East|17818.00|1961|1972000|76.1|27037.00|30373.00|Al-Kuwayt|Constitutional Monarchy (Emirate)|Jabir al-Ahmad al-Jabir al-Sabah|2429|KW
+LBN|Lebanon|Asia|Middle East|10400.00|1941|3282000|71.3|17121.00|15129.00|Lubnan|Republic|Émile Lahoud|2438|LB
+LBY|Libyan Arab Jamahiriya|Africa|Northern Africa|1759540.00|1951|5605000|75.5|44806.00|40562.00|Libiya|Socialistic State|Muammar al-Qadhafi|2441|LY
+LCA|Saint Lucia|North America|Caribbean|622.00|1979|154000|72.3|571.00||Saint Lucia|Constitutional Monarchy|Elisabeth II|3065|LC
+LIE|Liechtenstein|Europe|Western Europe|160.00|1806|32300|78.8|1119.00|1084.00|Liechtenstein|Constitutional Monarchy|Hans-Adam II|2446|LI
+LKA|Sri Lanka|Asia|Southern and Central Asia|65610.00|1948|18827000|71.8|15706.00|15091.00|Sri Lanka/Ilankai|Republic|Chandrika Kumaratunga|3217|LK
+LUX|Luxembourg|Europe|Western Europe|2586.00|1867|435700|77.1|16321.00|15519.00|Luxembourg/Lëtzebuerg|Constitutional Monarchy|Henri|2452|LU
+MCO|Monaco|Europe|Western Europe|1.50|1861|34000|78.8|776.00||Monaco|Constitutional Monarchy|Rainier III|2695|MC
+MEX|Mexico|North America|Central America|1958201.00|1810|98881000|71.5|414972.00|401461.00|México|Federal Republic|Vicente Fox Quesada|2515|MX
+MKD|Macedonia|Europe|Southern Europe|25713.00|1991|2024000|73.8|1694.00|1915.00|Makedonija|Republic|Boris Trajkovski|2460|MK
+MLT|Malta|Europe|Southern Europe|316.00|1964|380200|77.9|3512.00|3338.00|Malta|Republic|Guido de Marco|2484|MT
+MNP|Northern Mariana Islands|Oceania|Micronesia|464.00||78000|75.5|0.00||Northern Mariana Islands|Commonwealth of the US|George W. Bush|2913|MP
+MSR|Montserrat|North America|Caribbean|102.00||11000|78.0|109.00||Montserrat|Dependent Territory of the UK|Elisabeth II|2697|MS
+MTQ|Martinique|North America|Caribbean|1102.00||395000|78.3|2731.00|2559.00|Martinique|Overseas Department of France|Jacques Chirac|2508|MQ
+MUS|Mauritius|Africa|Eastern Africa|2040.00|1968|1158000|71.0|4251.00|4186.00|Mauritius|Republic|Cassam Uteem|2511|MU
+MYS|Malaysia|Asia|Southeast Asia|329758.00|1957|22244000|70.8|69213.00|97884.00|Malaysia|Constitutional Monarchy, Federation|Salahuddin Abdul Aziz Shah Alhaj|2464|MY
+NCL|New Caledonia|Oceania|Melanesia|18575.00||214000|72.8|3563.00||Nouvelle-Calédonie|Nonmetropolitan Territory of France|Jacques Chirac|3493|NC
+NLD|Netherlands|Europe|Western Europe|41526.00|1581|15864000|78.3|371362.00|360478.00|Nederland|Constitutional Monarchy|Beatrix|5|NL
+NOR|Norway|Europe|Nordic Countries|323877.00|1905|4478500|78.7|145895.00|153370.00|Norge|Constitutional Monarchy|Harald V|2807|NO
+NZL|New Zealand|Oceania|Australia and New Zealand|270534.00|1907|3862000|77.8|54669.00|64960.00|New Zealand/Aotearoa|Constitutional Monarchy|Elisabeth II|3499|NZ
+OMN|Oman|Asia|Middle East|309500.00|1951|2542000|71.8|16904.00|16153.00|´Uman|Monarchy (Sultanate)|Qabus ibn Sa´id|2821|OM
+PAN|Panama|North America|Central America|75517.00|1903|2856000|75.5|9131.00|8700.00|Panamá|Republic|Mireya Elisa Moscoso Rodríguez|2882|PA
+PER|Peru|South America|South America|1285216.00|1821|25662000|70.0|64140.00|65186.00|Perú/Piruw|Republic|Valentin Paniagua Corazao|2890|PE
+POL|Poland|Europe|Eastern Europe|323250.00|1918|38653600|73.2|151697.00|135636.00|Polska|Republic|Aleksander Kwasniewski|2928|PL
+PRI|Puerto Rico|North America|Caribbean|8875.00||3869000|75.6|34100.00|32100.00|Puerto Rico|Commonwealth of the US|George W. Bush|2919|PR
+PRK|North Korea|Asia|Eastern Asia|120538.00|1948|24039000|70.7|5332.00||Choson Minjujuui In´min Konghwaguk (Bukhan)|Socialistic Republic|Kim Jong-il|2318|KP
+PRT|Portugal|Europe|Southern Europe|91982.00|1143|9997600|75.8|105954.00|102133.00|Portugal|Republic|Jorge Sampãio|2914|PT
+PRY|Paraguay|South America|South America|406752.00|1811|5496000|73.7|8444.00|9555.00|Paraguay|Republic|Luis Ángel González Macchi|2885|PY
+PSE|Palestine|Asia|Middle East|6257.00||3101000|71.4|4173.00||Filastin|Autonomous Area|Yasser (Yasir) Arafat|4074|PS
+PYF|French Polynesia|Oceania|Polynesia|4000.00||235000|74.8|818.00|781.00|Polynésie française|Nonmetropolitan Territory of France|Jacques Chirac|3016|PF
+QAT|Qatar|Asia|Middle East|11000.00|1971|599000|72.4|9472.00|8920.00|Qatar|Monarchy|Hamad ibn Khalifa al-Thani|2973|QA
+REU|Réunion|Africa|Eastern Africa|2510.00||699000|72.7|8287.00|7988.00|Réunion|Overseas Department of France|Jacques Chirac|3017|RE
+SHN|Saint Helena|Africa|Western Africa|314.00||6000|76.8|0.00||Saint Helena|Dependent Territory of the UK|Elisabeth II|3063|SH
+SLB|Solomon Islands|Oceania|Melanesia|28896.00|1978|444000|71.3|182.00|220.00|Solomon Islands|Constitutional Monarchy|Elisabeth II|3161|SB
+SPM|Saint Pierre and Miquelon|North America|North America|242.00||7000|77.6|0.00||Saint-Pierre-et-Miquelon|Territorial Collectivity of France|Jacques Chirac|3067|PM
+SUR|Suriname|South America|South America|163265.00|1975|417000|71.4|870.00|706.00|Suriname|Republic|Ronald Venetiaan|3243|SR
+SVK|Slovakia|Europe|Eastern Europe|49012.00|1993|5398700|73.7|20594.00|19452.00|Slovensko|Republic|Rudolf Schuster|3209|SK
+SVN|Slovenia|Europe|Southern Europe|20256.00|1991|1987800|74.9|19756.00|18202.00|Slovenija|Republic|Milan Kucan|3212|SI
+SWE|Sweden|Europe|Nordic Countries|449964.00|836|8861400|79.6|226492.00|227757.00|Sverige|Constitutional Monarchy|Carl XVI Gustaf|3048|SE
+SYC|Seychelles|Africa|Eastern Africa|455.00|1976|77000|70.4|536.00|539.00|Sesel/Seychelles|Republic|France-Albert René|3206|SC
+TCA|Turks and Caicos Islands|North America|Caribbean|430.00||17000|73.3|96.00||The Turks and Caicos Islands|Dependent Territory of the UK|Elisabeth II|3423|TC
+TUN|Tunisia|Africa|Northern Africa|163610.00|1956|9586000|73.7|20026.00|18898.00|Tunis/Tunisie|Republic|Zine al-Abidine Ben Ali|3349|TN
+TUR|Turkey|Asia|Middle East|774815.00|1923|66591000|71.0|210721.00|189122.00|Türkiye|Republic|Ahmet Necdet Sezer|3358|TR
+TWN|Taiwan|Asia|Eastern Asia|36188.00|1945|22256000|76.4|256254.00|263451.00|T’ai-wan|Republic|Chen Shui-bian|3263|TW
+URY|Uruguay|South America|South America|175016.00|1828|3337000|75.2|20831.00|19967.00|Uruguay|Republic|Jorge Batlle Ibáñez|3492|UY
+USA|United States|North America|North America|9363520.00|1776|278357000|77.1|8510700.00|8110900.00|United States|Federal Republic|George W. Bush|3813|US
+VCT|Saint Vincent and the Grenadines|North America|Caribbean|388.00|1979|114000|72.3|285.00||Saint Vincent and the Grenadines|Constitutional Monarchy|Elisabeth II|3066|VC
+VEN|Venezuela|South America|South America|912050.00|1811|24170000|73.1|95023.00|88434.00|Venezuela|Federal Republic|Hugo Chávez Frías|3539|VE
+VGB|Virgin Islands, British|North America|Caribbean|151.00||21000|75.4|612.00|573.00|British Virgin Islands|Dependent Territory of the UK|Elisabeth II|537|VG
+VIR|Virgin Islands, U.S.|North America|Caribbean|347.00||93000|78.1|0.00||Virgin Islands of the United States|US Territory|George W. Bush|4067|VI
+YUG|Yugoslavia|Europe|Southern Europe|102173.00|1918|10640000|72.4|17000.00||Jugoslavija|Federal Republic|Vojislav Koštunica|1792|YU
+------------------- Consulta 6 -------------------
+Denmark
+Finland
+Faroe Islands
+Iceland
+Norway
+Svalbard and Jan Mayen
+Sweden
+------------------- Consulta 7 -------------------
+Cayman Islands
+Aruba
+Martinique
+------------------- Consulta 8 -------------------
+Indonesia
+India
+Ireland
+Iran
+Iraq
+Iceland
+Israel
+Italy
+Oman
+------------------- Consulta 9 -------------------
+Dutch
+Dari
+Pashto
+English
+Albaniana
+Catalan
+Papiamento
+Arabic
+Spanish
+Armenian
+Samoan
+German
+Azerbaijani
+French
+Kirundi
+Bengali
+Bulgariana
+Serbo-Croatian
+Belorussian
+Russian
+Aimará
+Ketšua
+Portuguese
+Malay
+Dzongkha
+Italian
+Romansh
+Chinese
+Maori
+Comorian
+Greek
+Turkish
+Czech
+Danish
+Tigrinja
+Estonian
+Finnish
+Swedish
+Fijian
+Faroese
+Georgiana
+Greenlandic
+Chamorro
+Hungarian
+Hindi
+Irish
+Persian
+Icelandic
+Hebrew
+Japanese
+Kazakh
+Kirgiz
+Khmer
+Kiribati
+Korean
+Lao
+Singali
+Tamil
+Sotho
+Lithuanian
+Luxembourgish
+Latvian
+Romanian
+Malagasy
+Dhivehi
+Marshallese
+Macedonian
+Maltese
+Burmese
+Mongolian
+Chichewa
+Norwegian
+Nepali
+Nauru
+Urdu
+Pilipino
+Palau
+Polish
+Guaraní
+Romani
+Rwanda
+Wolof
+Somali
+Slovak
+Slovene
+Swazi
+Ewe
+Kabyé
+Thai
+Tadzhik
+Turkmenian
+Tongan
+Tuvalu
+Mandarin Chinese
+Swahili
+Ukrainian
+Uzbek
+Vietnamese
+Bislama
+Afrikaans
+Xhosa
+Zulu
